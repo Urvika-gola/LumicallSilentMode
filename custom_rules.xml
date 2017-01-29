@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+
+    <available file="assets/app.properties" property="app.properties.present"/>
+
+    <target name="-setup-properties" unless="app.properties.present">
+      <copy file="assets/app.properties-prod" tofile="assets/app.properties"/>
+    </target>
+
+    <target name="-pre-build" depends="-setup-properties">
+
+      <property name="gmetric4j.absolute.dir" location="gmetric4j"/>
+      <subant buildpath="${gmetric4j.absolute.dir}" antfile="build.xml"/>
+      <copy file="${gmetric4j.absolute.dir}/gmetric4j.jar" todir="${jar.libs.absolute.dir}"/>
+      <copy todir="${jar.libs.absolute.dir}">
+        <fileset dir="${gmetric4j.absolute.dir}/lib">
+          <include name="**/oncrpc-1.0.7.jar"/>
+        </fileset>
+      </copy>
+
+      <property name="ice4j.absolute.dir" location="ice4j"/>
+      <subant buildpath="${ice4j.absolute.dir}" antfile="build.xml"/>
+      <copy file="${ice4j.absolute.dir}/ice4j.jar" todir="${jar.libs.absolute.dir}"/>
+      <copy todir="${jar.libs.absolute.dir}">
+        <fileset dir="${ice4j.absolute.dir}/lib">
+          <include name="**/*.jar"/>
+        </fileset>
+      </copy>
+
+      <property name="opentelecoms.org-util.absolute.dir" location="opentelecoms.org-util"/>
+      <subant buildpath="${opentelecoms.org-util.absolute.dir}" antfile="build.xml"/>
+      <copy file="${opentelecoms.org-util.absolute.dir}/opentelecoms.org-util.jar" todir="${jar.libs.absolute.dir}"/>
+
+      <property name="opentelecoms.org-zrtp.absolute.dir" location="zrtp"/>
+      <subant buildpath="${opentelecoms.org-zrtp.absolute.dir}" antfile="build.xml"/>
+      <copy file="${opentelecoms.org-zrtp.absolute.dir}/opentelecoms.org-zrtp.jar" todir="${jar.libs.absolute.dir}"/>
+
+      <property name="MjSIP-fork.absolute.dir" location="MjSIP-fork"/>
+      <symlink link="${MjSIP-fork.absolute.dir}/lib/opentelecoms.org-util.jar" resource="${jar.libs.absolute.dir}/opentelecoms.org-util.jar"/>
+      <subant buildpath="${MjSIP-fork.absolute.dir}" antfile="build.xml"/>
+      <copy file="${MjSIP-fork.absolute.dir}/MjSIP-fork.jar" todir="${jar.libs.absolute.dir}"/>
+
+        <!-- doesn't seem to build with this, fails to resolve
+             project.target.apilevel, so it is just commented out
+        <dependency
+                libraryFolderPathOut="project.library.folder.path"
+                libraryPackagesOut="project.library.packages"
+                libraryManifestFilePathOut="project.library.manifest.file.path"
+                libraryResFolderPathOut="project.library.res.folder.path"
+                libraryBinAidlFolderPathOut="project.library.bin.aidl.folder.path"
+                libraryRFilePathOut="project.library.bin.r.file.path"
+                libraryNativeFolderPathOut="project.library.native.folder.path"
+                jarLibraryPathOut="project.all.jars.path"
+                targetApi="${project.target.apilevel}"
+                verbose="${verbose}" /> -->
+
+    </target>
+
+</project>

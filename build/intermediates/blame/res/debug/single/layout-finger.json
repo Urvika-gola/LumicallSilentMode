@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/layout-finger/dtmf_twelve_key_dialer.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/layout-finger/dtmf_twelve_key_dialer.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/layout-finger/dialpad.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/layout-finger/dialpad.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/layout-finger/dialpad.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/layout-finger/dialpad.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/layout-finger/dtmf_twelve_key_dialer.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/layout-finger/dtmf_twelve_key_dialer.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/layout-finger/dtmf_display.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/layout-finger/dtmf_display.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/layout-finger/dtmf_display.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/layout-finger/dtmf_display.xml"
+    }
+]

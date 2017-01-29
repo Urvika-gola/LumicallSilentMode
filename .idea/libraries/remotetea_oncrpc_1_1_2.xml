@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="remotetea-oncrpc-1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.acplt.remotetea/remotetea-oncrpc/1.1.2/705c490ad22ff4627389853439f9decf5ee69be/remotetea-oncrpc-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.acplt.remotetea/remotetea-oncrpc/1.1.2/5bd5f8439f1799b0864ba4d53a9ec531f2939c72/remotetea-oncrpc-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

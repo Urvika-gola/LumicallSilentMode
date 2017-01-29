@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mjsip-fork-1.6+lumicall.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.sip/mjsip-fork/1.6+lumicall.3/6cc288a96c2803522c60ccdc0de8e9d33e35540c/mjsip-fork-1.6+lumicall.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.sip/mjsip-fork/1.6+lumicall.3/43bc14f4325a73cf9859d95ad9cff3c13ef63e1c/mjsip-fork-1.6+lumicall.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

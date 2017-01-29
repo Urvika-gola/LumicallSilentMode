@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/xml/enum_suffix_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/xml/enum_suffix_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/xml/codec_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/xml/codec_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/xml/codec_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/xml/codec_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/xml/ptt_channel_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/xml/ptt_channel_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/xml/db_objects_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/xml/db_objects_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/xml/sip_identity_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/xml/sip_identity_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/xml/db_objects_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/xml/db_objects_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/xml/sip_identity_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/xml/sip_identity_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/xml/enum_suffix_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/xml/enum_suffix_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/xml/ptt_channel_settings.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/xml/ptt_channel_settings.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/xml/preferences.xml"
+    }
+]

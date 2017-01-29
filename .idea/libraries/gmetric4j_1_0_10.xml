@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gmetric4j-1.0.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.ganglia.gmetric4j/gmetric4j/1.0.10/3d62003123b586adb86cb028cc0f8a8c3a701d81/gmetric4j-1.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.ganglia.gmetric4j/gmetric4j/1.0.10/f4f593b393f2889d2b053d01ca5b55970ce0765f/gmetric4j-1.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

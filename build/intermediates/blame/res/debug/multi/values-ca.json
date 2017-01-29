@@ -1,0 +1,1076 @@
+[
+    {
+        "outputFile": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 117,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 105,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 105,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 106,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 106,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 82,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 82,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 107,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 107,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 125,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 125,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 110,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 110,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 108,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 108,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 97,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 97,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 109,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 109,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 103,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 103,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 107,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 107,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 122,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1575,
+                        "endColumn": 122,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1697,
+                    "endColumn": 69,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 168,
+                        "endColumn": 67,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 54,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 236,
+                        "endColumn": 52,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 66,
+                    "endOffset": 1884
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 289,
+                        "endColumn": 64,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1889,
+                    "endColumn": 68,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 354,
+                        "endColumn": 66,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 56,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 421,
+                        "endColumn": 54,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endColumn": 43,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 476,
+                        "endColumn": 41,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2059,
+                    "endColumn": 46,
+                    "endOffset": 2101
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 518,
+                        "endColumn": 44,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2106,
+                    "endColumn": 53,
+                    "endOffset": 2155
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 563,
+                        "endColumn": 51,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2160,
+                    "endColumn": 45,
+                    "endOffset": 2201
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 615,
+                        "endColumn": 43,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2206,
+                    "endColumn": 48,
+                    "endOffset": 2250
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 659,
+                        "endColumn": 46,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2255,
+                    "endColumn": 106,
+                    "endOffset": 2357
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 751,
+                        "endColumn": 104,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2362,
+                    "endColumn": 90,
+                    "endOffset": 2448
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 856,
+                        "endColumn": 88,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2453,
+                    "endColumn": 46,
+                    "endOffset": 2495
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 706,
+                        "endColumn": 44,
+                        "endOffset": 748
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 117,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 105,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 105,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 106,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 106,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 82,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 82,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 107,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 107,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 125,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 125,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 110,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 110,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 108,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 108,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 97,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 97,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 109,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 109,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 103,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 103,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 107,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 107,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 122,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1575,
+                        "endColumn": 122,
+                        "endOffset": 1693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1697,
+                    "endColumn": 69,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 168,
+                        "endColumn": 67,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 54,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 236,
+                        "endColumn": 52,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 66,
+                    "endOffset": 1884
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 289,
+                        "endColumn": 64,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1889,
+                    "endColumn": 68,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 354,
+                        "endColumn": 66,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 56,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 421,
+                        "endColumn": 54,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endColumn": 43,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 476,
+                        "endColumn": 41,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2059,
+                    "endColumn": 46,
+                    "endOffset": 2101
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 518,
+                        "endColumn": 44,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2106,
+                    "endColumn": 53,
+                    "endOffset": 2155
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 563,
+                        "endColumn": 51,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2160,
+                    "endColumn": 45,
+                    "endOffset": 2201
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 615,
+                        "endColumn": 43,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2206,
+                    "endColumn": 48,
+                    "endOffset": 2250
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 659,
+                        "endColumn": 46,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2255,
+                    "endColumn": 106,
+                    "endOffset": 2357
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 751,
+                        "endColumn": 104,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2362,
+                    "endColumn": 90,
+                    "endOffset": 2448
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 856,
+                        "endColumn": 88,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2453,
+                    "endColumn": 46,
+                    "endOffset": 2495
+                },
+                "from": {
+                    "file": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 706,
+                        "endColumn": 44,
+                        "endOffset": 748
+                    }
+                }
+            }
+        ]
+    }
+]

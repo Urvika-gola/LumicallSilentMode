@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/raw/mytruststore.bks",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/raw/mytruststore.bks"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/raw/mytruststore.bks",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/raw/mytruststore.bks"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/raw/reg_server.pub",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/raw/reg_server.pub"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/raw/reg_server.pub",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/raw/reg_server.pub"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/raw/country_codes.csv",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/raw/country_codes.csv"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/raw/mcc.csv",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/raw/mcc.csv"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/raw/country_codes.csv",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/raw/country_codes.csv"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/raw/mcc.csv",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/raw/mcc.csv"
+    }
+]

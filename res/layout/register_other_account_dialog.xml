@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2015 The Lumicall Open Source Project
+ * 
+ * This file is part of Lumicall (http://lumicall.org)
+ * 
+ * Lumicall is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This source code is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this source code; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    android:layout_weight="1">
+    
+  <LinearLayout
+    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:padding="10dip">
+
+    <TextView
+    	android:layout_height="wrap_content"
+    	android:text="@string/reg_other_account_instructions"
+    	android:layout_width="wrap_content"
+    	android:textColor="#000000">
+    </TextView>
+    
+	<LinearLayout
+	    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    	android:paddingTop="10dip"
+	    android:orientation="horizontal">
+		<LinearLayout
+		    android:layout_width="wrap_content" android:layout_height="wrap_content"
+		    android:orientation="horizontal" android:gravity="left"
+		    			android:layout_weight="1"
+		    >
+
+		    <EditText
+		        android:id="@+id/OtherAccountID"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/reg_other_account_sip_address"
+		        android:inputType="textEmailAddress" >
+
+		    </EditText>
+		</LinearLayout>
+	</LinearLayout>
+		
+	<LinearLayout
+	    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    	android:paddingTop="10dip"
+	    android:orientation="horizontal">
+		
+		<LinearLayout
+		    android:layout_width="wrap_content" android:layout_height="wrap_content"
+		    android:orientation="horizontal" android:gravity="left"
+		    			android:layout_weight="1"
+		    >
+		    
+		    <EditText
+		        android:id="@+id/OtherAccountPassword"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/reg_other_account_sip_password"
+		        android:inputType="textPassword" >
+
+		    </EditText>
+		    
+		</LinearLayout>
+	</LinearLayout>
+
+	<LinearLayout
+	    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    	android:paddingTop="10dip"
+	    android:orientation="horizontal">
+		<LinearLayout
+		    android:layout_width="wrap_content" android:layout_height="wrap_content"
+		    android:orientation="horizontal" android:gravity="left"
+		    			android:layout_weight="1"
+		    >
+
+		    <Button
+		        android:id="@+id/ButtonDone"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/reg_other_account_done" >
+
+		        </Button>
+		</LinearLayout>
+	</LinearLayout>
+			
+    <TextView
+        android:id="@+id/AdvancedSetup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dip"
+        android:text="@string/reg_advanced"
+        android:textColor="#3366ee"
+        android:textSize="11dp" >
+    </TextView>	
+  </LinearLayout>
+</ScrollView>

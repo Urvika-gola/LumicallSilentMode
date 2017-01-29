@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2012 Ready Technology (UK) Limited
+ * 
+ * This file is part of Lumicall (http://www.lumicall.org)
+ * 
+ * Lumicall is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This source code is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this source code; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+/////////////////////////////////////////////////////////////////////
+// these are the main definitions of Sipdroid
+// for modifying them additional terms according to section 7, GPL apply
+// see ADDITIONAL_TERMS.txt
+/////////////////////////////////////////////////////////////////////
+ -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="org.lumicall.android"
+    android:versionName="1.12.16"
+    android:versionCode="188"
+    android:installLocation="auto">
+        <!-- Not sure of the actual minimum API level required by
+             the code.  However, it is good to encourage 
+             Android 2.1 or greater (API level 7 or greater)
+             as older phones are likely to have insufficient CPU
+             power and poor battery life for VoIP and Wifi -->
+	<uses-sdk android:minSdkVersion="8" android:targetSdkVersion="8"/>
+	<supports-screens
+          android:normalScreens="true"
+          android:smallScreens="true"
+          android:largeScreens="true"
+          android:anyDensity="false" />
+	<uses-feature android:name="android.hardware.bluetooth" android:required="false"/>
+	<uses-feature android:name="android.hardware.location" android:required="false"/>
+	<uses-feature android:name="android.hardware.location.gps" android:required="false"/>
+	<uses-feature android:name="android.hardware.telephony" android:required="false"/>
+	<uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+	<uses-feature android:name="android.hardware.wifi" android:required="false"/>
+	<uses-feature android:name="android.hardware.camera" android:required="false"/>
+	
+	<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+	<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"></uses-permission>
+	<uses-permission android:name="android.permission.RECORD_AUDIO"></uses-permission>
+	<uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"></uses-permission>
+	<uses-permission android:name="android.permission.WRITE_SETTINGS"></uses-permission>
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"></uses-permission>
+	<uses-permission android:name="android.permission.READ_CONTACTS"></uses-permission>
+	<uses-permission android:name="android.permission.WRITE_CONTACTS"></uses-permission>
+	<uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
+	<uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
+	<uses-permission android:name="android.permission.DISABLE_KEYGUARD"></uses-permission>
+	<uses-permission android:name="android.permission.CAMERA"></uses-permission>
+	<uses-permission android:name="android.permission.VIBRATE" ></uses-permission>
+	<!-- Location / GPS support is used by the Ganglia agent, it must be enabled explicitly
+	     in the preferences.  Many users are scared if they see the request for GPS permissions
+	     so it is completely disabled in the manifest for now.
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" ></uses-permission> -->
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" ></uses-permission>
+	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE" ></uses-permission>
+	<!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" ></uses-permission> -->
+	<uses-permission android:name="android.permission.BLUETOOTH" ></uses-permission>
+	<uses-permission android:name="android.permission.GET_ACCOUNTS" ></uses-permission>
+	<uses-permission android:name="android.permission.RECEIVE_SMS" />
+	<uses-permission android:name="android.permission.SEND_SMS" />
+	<uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+	
+	<application android:icon="@drawable/icon64" android:label="@string/app_name" android:debuggable="false">
+	    <activity
+            android:name="org.sipdroid.sipua.ui.Sipdroid"
+            android:label="@string/app_name" android:launchMode="singleInstance"
+            android:theme="@style/Theme.AppCompat.Light"
+        	android:configChanges="orientation|keyboardHidden">
+            <!-- <intent-filter>
+                <action android:name="android.intent.action.MAIN" /> 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter> -->
+        </activity>
+        <activity
+            android:name="org.lumicall.android.sip.RegisterAccount"
+            android:label="@string/app_name" android:launchMode="singleInstance"
+        	android:configChanges="orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.lumicall.android.sip.ManualVerification"
+            android:label="@string/app_name" android:launchMode="singleInstance"
+        	android:configChanges="orientation|keyboardHidden">
+        </activity>
+        <activity
+            android:name="org.lumicall.android.sip.ActivateAccount"
+            android:label="@string/app_name" android:launchMode="singleInstance"
+        	android:configChanges="orientation|keyboardHidden">
+            <intent-filter android:priority="100">
+                <action android:name="org.lumicall.android.extra.VALIDATION_ATTEMPTED" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.lumicall.android.sip.RegisterOtherAccount"
+            android:label="@string/app_name" android:launchMode="singleInstance"
+                android:configChanges="orientation|keyboardHidden">
+        </activity>
+        <activity android:name="org.sipdroid.sipua.ui.PSTN" android:label="@string/pstn_name"
+        	android:icon="@drawable/ic_launcher_phone">
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="sms" />
+                <data android:scheme="smsto" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.sipdroid.sipua.ui.SIP" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="sms" />
+                <data android:scheme="smsto" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name="org.sipdroid.sipua.ui.AutoAnswer" android:label="@string/app_name"/>
+        <activity android:name="org.sipdroid.sipua.ui.ChangeAccount" android:label="@string/app_name"/>
+        <activity android:name="org.sipdroid.sipua.ui.SIPUri" android:label="@string/app_name"
+        		android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="android.intent.action.CALL" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="sip" />
+                <data android:scheme="sipdroid" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="imto" />
+                <data android:scheme="sip" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.CALL_PRIVILEGED" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="sip" />
+                <!--
+                Note that:
+                - the CALL_PRIVILEGED intent is intended for an activity and can only be handled
+                  by a single activity (not like the NEW_OUTGOING_CALL broadcast intent that
+                  can be processed by multiple activities)
+                - for such intents (handled by activities), if Android finds multiple activities
+                  willing to accept the implicit intent through their filter, Android displays
+                  a popup asking the user which intent (which app) should process the intent
+                - if we handle the tel: URI here, then on every dial attempt, Android
+                  displays a popup asking the user if they want CALL_PRIVILEGED intent routed to the
+                  activity SIPUri in Lumicall or the usual activity in the default phone app.
+                  If the user selects the default phone app, then it still sends the NEW_OUTGOING_CALL
+                  intent which eventually results in the normal Lumicall popup appearing.
+                  If the user selects Lumicall, then Lumicall can handle a sip: URI embedded in the
+                  tel: URI, but it needs to somehow proxy the intent to the normal dialer for any
+                  other type of tel: URI (not currently implemented)
+                  The first popup (generated by Android) is likely to be very confusing
+                  and therefore we don't currently handle tel: here.
+                  The downside of not handling tel: here is that we can't process redial attempts
+                  for sip: addresses that the user selects in the call history, because Android is
+                  incorrectly storing them as tel: URIs -->
+                <!-- <data android:scheme="tel" /> -->
+            </intent-filter>
+        </activity>
+        <activity android:name="org.sipdroid.sipua.ui.Activity2" android:label="@string/app_name"
+        	android:excludeFromRecents="true" android:taskAffinity=""/>
+        <activity android:name="org.sipdroid.sipua.ui.Settings" android:label="@string/app_name"
+        	android:configChanges="orientation|keyboardHidden">
+        	android:excludeFromRecents="true" android:taskAffinity="">
+        </activity>
+        <activity android:name=".preferences.SIPIdentitiesSettings" android:label="@string/app_name">
+        </activity>
+        <activity android:name=".preferences.SIPIdentitySettings" android:label="@string/app_name">
+        </activity>
+        <activity android:name=".preferences.ENUMSuffixesSettings" android:label="@string/app_name">
+        </activity>
+        <activity android:name=".preferences.ENUMSuffixSettings" android:label="@string/app_name">
+        </activity>
+        <activity android:name=".preferences.PTTChannelsSettings" android:label="@string/app_name">
+        </activity>
+        <activity android:name=".preferences.PTTChannelSettings" android:label="@string/app_name">
+        </activity>
+        <activity android:name=".preferences.SilentMode" android:label="@string/app_name">
+        </activity>
+        <activity
+	   android:name="org.sipdroid.codecs.Codecs$CodecSettings"
+	   android:label="@string/app_name" >
+        </activity>
+        <activity android:name="org.sipdroid.sipua.ui.VideoCamera" android:label="@string/menu_video"
+	        android:excludeFromRecents="true" android:taskAffinity=""
+			android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+	        android:screenOrientation="landscape"
+	        android:clearTaskOnLaunch="true"
+	        android:configChanges="orientation|keyboardHidden">
+        </activity>
+        <activity android:name="org.sipdroid.sipua.ui.InCallScreen" android:label="@string/app_name"
+	        android:excludeFromRecents="true" android:taskAffinity=""
+	        android:launchMode="singleInstance">
+        </activity>
+        <activity
+            android:name="org.lumicall.android.sip.MessageIndex"
+            android:label="@string/app_name" android:launchMode="singleInstance"
+            android:theme="@style/Theme.AppCompat.Light"
+        	android:configChanges="orientation|keyboardHidden">
+        </activity>
+        <activity
+            android:name="org.lumicall.android.sip.NewMessage"
+            android:label="@string/app_name" android:launchMode="singleInstance"
+        	android:configChanges="orientation|keyboardHidden">
+        </activity>
+        <receiver android:name="org.sipdroid.sipua.ui.OneShotAlarm"/>
+	    <receiver android:name="org.sipdroid.sipua.ui.OneShotAlarm2"/>
+	    <receiver android:name="org.sipdroid.sipua.ui.LoopAlarm"/>
+	    <receiver android:name="org.sipdroid.sipua.ui.OwnWifi"/>
+	    <receiver android:name="org.sipdroid.sipua.ui.OneShotLocation"/>
+	    <receiver android:name="org.sipdroid.sipua.ui.LoopLocation"/>
+	    <receiver android:name="org.sipdroid.sipua.ui.Caller">
+	        <intent-filter android:priority="1000">
+	        	<action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+	        </intent-filter>
+	    </receiver>
+	    <receiver android:name="org.lumicall.android.reg.SMSProgressReceiver">
+	        <intent-filter>
+	        	<action android:name="org.lumicall.SMS_SENT" />
+	        	<action android:name="org.lumicall.SMS_DELIVERED" />
+	        </intent-filter>
+	    </receiver>
+        <receiver android:name="org.sipdroid.sipua.ui.Receiver" android:enabled="true">
+	      	<intent-filter>
+	        	<action android:name="android.intent.action.BOOT_COMPLETED" />
+	        	<action android:name="android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE" />
+	        	<action android:name="android.intent.action.EXTERNAL_APPLICATIONS_UNAVAILABLE" />
+	      	</intent-filter>
+	      	<intent-filter>
+	        	<action android:name="android.intent.action.PACKAGE_REPLACED" />
+	        	<data android:scheme="package" />
+	        	<data android:path="org.lumicall.android" />
+	      	</intent-filter>
+	    </receiver>
+	    <receiver android:name="org.lumicall.android.sms.SMSReceiver" android:enabled="true">
+                <intent-filter android:priority="100">
+                    <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+                </intent-filter>
+            </receiver>
+        <!--  <receiver android:name="org.lumicall.android.reg.RegistrationPhaseTwo" android:enabled="true">
+                <intent-filter android:priority="100">
+                    <action android:name="org.lumicall.android.intent.HANDLE_AUTH_CODE" />
+                </intent-filter>
+            </receiver> -->    
+        <receiver android:name="org.lumicall.android.ganglia.AndroidGScheduler" android:enabled="true">
+                <!--  <intent-filter android:priority="100">
+                    <action android:name="org.lumicall.android.ganglia.intent.ALARM_EVENT" />
+                </intent-filter> -->
+        </receiver>
+        <receiver android:name="org.lumicall.android.AndroidTimer" android:enabled="true">
+        </receiver>
+    	<service android:name="org.sipdroid.sipua.ui.RegisterService" />
+    	<service android:name="org.lumicall.android.reg.EnrolmentService">
+    	    <!--  <intent-filter android:priority="100">
+                <action android:name="org.lumicall.android.extra.VALIDATION_ATTEMPTED" />
+            </intent-filter> -->
+    	</service>
+    	<service android:name="org.lumicall.android.ganglia.GMonitorService" android:enabled="true">
+    	</service>
+    </application>
+</manifest> 

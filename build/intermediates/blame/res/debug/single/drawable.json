@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_ended_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_ended_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_ended_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_ended_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/contacts.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/contacts.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/im.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/im.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_incall_hangup.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_incall_hangup.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_busy.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_busy.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_merge.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_merge.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_item_indicator_focus.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_item_indicator_focus.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_frame.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_frame.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_connected_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_connected_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_presence_away.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_presence_away.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_normal_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_normal_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_ended_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_ended_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_speakerphone_off.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_speakerphone_off.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_redial.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_redial.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_incall_ongoing.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_incall_ongoing.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_incall_ongoing.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_incall_ongoing.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_hold_on.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_hold_on.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_ended_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_ended_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_incall_end.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_incall_end.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_connected_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_connected_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/save.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/save.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_presence_away.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_presence_away.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/icon64.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/icon64.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_incoming_call_hold_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_incoming_call_hold_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_normal_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_normal_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/exit.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_lcd.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_lcd.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_unknown.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_unknown.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_presence_offline.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_presence_offline.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_done.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_done.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/stat_sys_phone_call_bluetooth.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/stat_sys_phone_call_bluetooth.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_presence_idle.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_presence_idle.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_done.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_done.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_presence_available.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_presence_available.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/people.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/people.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_incall_end.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_incall_end.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_hold_on.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_hold_on.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/auto_answer_disabled.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/auto_answer_disabled.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/goback.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/goback.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/configure.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/configure.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_hold_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_hold_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_presence_offline.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_presence_offline.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_ended_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_ended_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/stat_sys_phone_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/stat_sys_phone_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_add_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_add_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/mute.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/mute.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_incall_onhold.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_incall_onhold.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/icon32.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/icon32.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_photo_border.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_photo_border.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_normal_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_normal_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/conf.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/conf.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_dialing.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_dialing.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_redial.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_redial.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_normal_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_normal_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_end.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_end.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/stat_sys_phone_call_bluetooth.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/stat_sys_phone_call_bluetooth.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_connected_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_connected_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_fav_five.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_fav_five.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_hold_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_hold_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_incoming_call_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_incoming_call_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_incall_hangup.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_incall_hangup.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/auto_answer_disabled.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/auto_answer_disabled.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/auto_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/auto_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_item_indicator.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_item_indicator.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_incoming_call_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_incoming_call_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_incall_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_incall_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_contacts_edit_contacts.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_contacts_edit_contacts.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_hold_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_hold_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_lcd.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_lcd.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_speakerphone_on.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_speakerphone_on.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/exit.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/icon22.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/icon22.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_normal_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_normal_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_photo_border.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_photo_border.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_incoming_call_dont_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_incoming_call_dont_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_incall_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_incall_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/configure.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/configure.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/people.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/people.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_hold_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_hold_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_unknown_3.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_unknown_3.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_search_contacts.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_search_contacts.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_end.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_end.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/save.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/save.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/icon22.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/icon22.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_add_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_add_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_connected_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_connected_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_hold_short.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_hold_short.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_incoming_call_answer_options.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_incoming_call_answer_options.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/icon64.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/icon64.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_conference.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_conference.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_connected_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_connected_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_presence_idle.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_presence_idle.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_incall_add.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_incall_add.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_menu_end_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_menu_end_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/im.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/im.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_connected_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_connected_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_incoming_call_dont_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_incoming_call_dont_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_unknown_3.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_unknown_3.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_menu_end_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_menu_end_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/icon32.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/icon32.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_incoming_call_answer_options.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_incoming_call_answer_options.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_presence_available.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_presence_available.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_hold_off.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_hold_off.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/auto_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/auto_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_unknown_2.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_unknown_2.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/mute.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/mute.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/stat_sys_phone_call.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/stat_sys_phone_call.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_item_indicator.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_item_indicator.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_end.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_end.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_incall_onhold.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_incall_onhold.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_incall_add.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_incall_add.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_incoming_call_hold_answer.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_incoming_call_hold_answer.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_merge.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_merge.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_dialing.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_dialing.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_conference.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_conference.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_menu_dial_pad.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_menu_dial_pad.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_search_contacts.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_search_contacts.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_menu_dial_pad.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_menu_dial_pad.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_end.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_end.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/conf.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/conf.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_item_indicator_focus.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_item_indicator_focus.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/ic_launcher_phone.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/ic_launcher_phone.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_unknown_2.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_unknown_2.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_frame.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_frame.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_contacts_edit_contacts.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_contacts_edit_contacts.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_call_speakerphone_off.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_call_speakerphone_off.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/contacts.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/contacts.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_hold_off.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_hold_off.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/goback.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/goback.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/incall_frame_ended_tall_land.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/incall_frame_ended_tall_land.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/sym_fav_five.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/sym_fav_five.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_normal_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_normal_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/picture_busy.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/picture_busy.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/incall_frame_hold_tall_port.9.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/incall_frame_hold_tall_port.9.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/sym_call_speakerphone_on.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/sym_call_speakerphone_on.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/drawable/ic_launcher_phone.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/drawable/ic_launcher_phone.png"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/drawable/picture_unknown.png",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/drawable/picture_unknown.png"
+    }
+]

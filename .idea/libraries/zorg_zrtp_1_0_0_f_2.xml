@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="zorg-zrtp-1.0.0+f.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.zrtp/zorg-zrtp/1.0.0+f.2/34ddfc1b3c5a3c800b06421d1c6d95dd2bf05ac5/zorg-zrtp-1.0.0+f.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.zrtp/zorg-zrtp/1.0.0+f.2/81b529eead17e0b6b89f444a5aeb6d59a10a2643/zorg-zrtp-1.0.0+f.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

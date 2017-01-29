@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PBKDF2-1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.rtner/PBKDF2/1.1.1/d3ed1f05ab4cfa21eeeccbb1935fe771c027eb77/PBKDF2-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.rtner/PBKDF2/1.1.1/9cc32fdbb9a5632132ad0a11d104c4515fe3a6b4/PBKDF2-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

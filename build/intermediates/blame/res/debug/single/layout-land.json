@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/res/merged/debug/layout-land/call_card_person_info.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/res/layout-land/call_card_person_info.xml"
+    },
+    {
+        "merged": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/res/merged/debug/layout-land/call_card_person_info.xml",
+        "source": "/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/res/layout-land/call_card_person_info.xml"
+    }
+]

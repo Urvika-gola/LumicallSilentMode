@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="nominet-ddds-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.ddds/nominet-ddds/1.0/63655584be94d8954c9cbe375524b0f70e700ac2/nominet-ddds-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.ddds/nominet-ddds/1.0/a3a07063f3312a5a556ac530cca4e0faa57d59a6/nominet-ddds-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

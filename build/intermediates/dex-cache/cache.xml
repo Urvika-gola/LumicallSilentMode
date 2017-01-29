@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.omnidial/omnidial-android/1.0.0/82a1df64ef8aafbbb2a20db4be776160067bdd4d/omnidial-android-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="82a1df64ef8aafbbb2a20db4be776160067bdd4d">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/omnidial-android-1.0.0_33004755ed315cde59c9711b1574b12d9d8008eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.opentelecoms.ice/ice4j-fork/1.0+f.4/3b841ba97c9601ec72c7b75a5393894350f3345d/ice4j-fork-1.0+f.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3b841ba97c9601ec72c7b75a5393894350f3345d">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/ice4j-fork-1.0+f.4_66ec64a3be227bbd8acfc24f33b635ad5d2f4842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.7/a1ed0a251d22bf528cebfafb94c55e6f3f339cf/dnsjava-2.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0a1ed0a251d22bf528cebfafb94c55e6f3f339cf">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/dnsjava-2.1.7_24fdb60fae83d4b3732d0ac098a0dda8bd6fa773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/de.rtner/PBKDF2/1.1.1/d3ed1f05ab4cfa21eeeccbb1935fe771c027eb77/PBKDF2-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d3ed1f05ab4cfa21eeeccbb1935fe771c027eb77">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/PBKDF2-1.1.1_7139b895099a80f52d0e417956b63a0cbc733a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.52.0.0/99976d02054732e513eb2d884d9e20bec539e283/core-1.52.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="99976d02054732e513eb2d884d9e20bec539e283">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/core-1.52.0.0_68bbde96a8e9cc18a65dbc478cd7564dc7d7b723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.omnidial/omnidial-core/1.0.0/df1d7041497a2ae8896289c2479d9c5dd283cdb5/omnidial-core-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="df1d7041497a2ae8896289c2479d9c5dd283cdb5">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/omnidial-core-1.0.0_bb49d0aac9c5598a68b7205d9decafd0742da7fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.opentelecoms.ddds/nominet-ddds/1.0/63655584be94d8954c9cbe375524b0f70e700ac2/nominet-ddds-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="63655584be94d8954c9cbe375524b0f70e700ac2">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/nominet-ddds-1.0_2fa4311ec6634975c10a332220d37ae90f1ca89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/7.1.0/a8144be5e41b43f2660e7532347f8f367e4b442f/libphonenumber-7.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a8144be5e41b43f2660e7532347f8f367e4b442f">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/libphonenumber-7.1.0_b7fabc826a7fb5671e7c0fa3cbc50390abd92b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.opentelecoms.sip/mjsip-fork/1.6+lumicall.3/6cc288a96c2803522c60ccdc0de8e9d33e35540c/mjsip-fork-1.6+lumicall.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6cc288a96c2803522c60ccdc0de8e9d33e35540c">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/mjsip-fork-1.6+lumicall.3_1854729b5683a249f5ac443613153d90c1f10297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.picketbox/picketbox/4.0.21.Final/612afa8d2a4a7bc2230dd5f3b00f84d4bb88c400/picketbox-4.0.21.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="612afa8d2a4a7bc2230dd5f3b00f84d4bb88c400">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/picketbox-4.0.21.Final_d133f0976d96fbffcebac96545dffb6a45de8478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_d33d96307f0366e58fa2e5542cf37401e922de88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_4cf110aaee81045518b4bb303f431290f4035dd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_d992b1491f0f1626bcfa1f3fc9cd97dffe838484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.6.1-RC1/fe76e182946faad493a50968f3344e848b467b42/slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fe76e182946faad493a50968f3344e848b467b42">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/slf4j-android-1.6.1-RC1_49a8177e03737b0829735016c86ae1bd721fa458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.opentelecoms.util/util/1.0.0/500a659c6bcd3b78efea921af7fff5675245c325/util-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="500a659c6bcd3b78efea921af7fff5675245c325">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/util-1.0.0_809596d86b0136dfce224df435c63927fd5a8db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/info.ganglia.gmetric4j/gmetric4j/1.0.10/3d62003123b586adb86cb028cc0f8a8c3a701d81/gmetric4j-1.0.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3d62003123b586adb86cb028cc0f8a8c3a701d81">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/gmetric4j-1.0.10_e614201ee9ccfa7a511304d241940c24668cf307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.acplt.remotetea/remotetea-oncrpc/1.1.2/705c490ad22ff4627389853439f9decf5ee69be/remotetea-oncrpc-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0705c490ad22ff4627389853439f9decf5ee69be">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/remotetea-oncrpc-1.1.2_1aeb1c570bb6dd933df2bba97f5c1c5269c228a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.opentelecoms.zrtp/zorg-zrtp/1.0.0+f.2/34ddfc1b3c5a3c800b06421d1c6d95dd2bf05ac5/zorg-zrtp-1.0.0+f.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="34ddfc1b3c5a3c800b06421d1c6d95dd2bf05ac5">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/zorg-zrtp-1.0.0+f.2_5fadda608e20760ed2e71e19f4876aa821d22c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_9e83d6ebf6f04c08ad5e2acb8eaa204c04979f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/prov/1.52.0.0/5ef9f3ba750623a00b9415dc0416b931b46caf03/prov-1.52.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5ef9f3ba750623a00b9415dc0416b931b46caf03">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/prov-1.52.0.0_0e6b81044d9268b784848bd777f6e46ad2bf3c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/urvikagola/.gradle/caches/modules-2/files-2.1/org.bitlet/weupnp/0.1.4/b99cd791ede89b7c17426e6c51a0f171dc925def/weupnp-0.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b99cd791ede89b7c17426e6c51a0f171dc925def">
+        <dex dex="/home/urvikagola/UrvikaGola/outreachy/lumicallmain/lumicall/build/intermediates/pre-dexed/debug/weupnp-0.1.4_6f82a2a91518471d89e562428feaccac51322b10.jar" />
+    </item>
+
+</items>

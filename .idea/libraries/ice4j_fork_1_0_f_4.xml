@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ice4j-fork-1.0+f.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.ice/ice4j-fork/1.0+f.4/3b841ba97c9601ec72c7b75a5393894350f3345d/ice4j-fork-1.0+f.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentelecoms.ice/ice4j-fork/1.0+f.4/cdf32b464a71eb673bd292221fd16565a06c7747/ice4j-fork-1.0+f.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

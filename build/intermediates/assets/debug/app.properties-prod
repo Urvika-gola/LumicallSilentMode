@@ -1,0 +1,8 @@
+
+registrationUrl=https://secure.trendhosting.net/test2
+sipServer=sip-server.sip5060.net
+sipDomain=sip5060.net
+sipProtocol=tls
+sipPort=5061
+stunServer=stun-server.sip5060.net
+stunPort=3478

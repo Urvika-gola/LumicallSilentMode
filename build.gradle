@@ -1,0 +1,120 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
+    }
+}
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+dependencies {
+    compile "com.android.support:appcompat-v7:21.0.+"
+    compile 'com.googlecode.libphonenumber:libphonenumber:7.1.0'
+    compile 'org.slf4j:slf4j-android:1.6.1-RC1'
+    compile 'org.opentelecoms.ddds:nominet-ddds:1.0'
+    compile 'info.ganglia.gmetric4j:gmetric4j:1.0.10'
+    compile 'de.rtner:PBKDF2:1.1.1'
+    compile 'org.opentelecoms.sip:mjsip-fork:1.6+lumicall.3'
+    compile ('org.opentelecoms.zrtp:zorg-zrtp:1.0.0+f.2') {
+        // We exclude the transitive dependency Bouncy Castle and
+        // use Spongy Castle instead because of the classpath issues
+        // with Bouncy Castle on Android
+        exclude module: 'bcprov-jdk16'
+    }
+    compile 'com.madgag.spongycastle:prov:1.52.0.0'
+    compile ('org.opentelecoms.ice:ice4j-fork:1.0+f.4') {
+        // nist-sdp and jain-sip-ri are transitive dependencies, must exclude
+        // them here or we get errors about duplicate classes later.  Some
+        // of these classes may be part of the Android platform.
+        exclude module: 'nist-sdp'
+    }
+    compile 'org.omnidial:omnidial-android:1.0.0'
+}
+
+// Manually copy or symlink to the app.properties-prod file before building
+//
+//   e.g.
+//          $ ln -s app.properties-prod assets/app.properties
+//
+preBuild.doFirst {
+    assert file("./assets/app.properties").exists()
+}
+
+// run the ndk-build before running gradle.  See the BUILD.txt file for
+// more details
+//
+//   e.g.
+//          $ ${NDK_HOME}/ndk-build
+//
+preBuild.doFirst {
+    assert file("./libs/armeabi-v7a/libopus_jni.so").exists()
+}
+
+android {
+    defaultConfig {
+        versionCode 188
+        versionName "1.12.16"
+
+        minSdkVersion 8
+        targetSdkVersion 8
+    }
+
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    // FIXME: This project currently generates a lot of lint errors,
+    // they need to be cleaned up at some point
+    lintOptions {
+        abortOnError false
+    }
+
+    signingConfigs {
+        release {
+            storeFile file(System.getenv('HOME') + '/.keystore')
+            storePassword 'unset'
+            keyAlias System.getenv('SIGNING_KEY')
+            keyPassword 'unset'
+        }
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            // FIXME: JNI stuff must currently be built by running
+            // ndk-build before the gradle build
+            jni.srcDirs = []
+            jniLibs.srcDir 'libs'
+        }
+
+    }
+}
+
+task askForPassword << {
+    def mypassword = new String(System.console().readPassword("Signing password: "))
+    android.signingConfigs.release.storePassword = mypassword
+    android.signingConfigs.release.keyPassword = mypassword
+}
+
+tasks.whenTaskAdded { task ->
+    if(task.name == 'validateReleaseSigning') {
+        task.dependsOn askForPassword
+    }
+}

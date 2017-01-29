@@ -1,0 +1,553 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:26:1-283:12
+	package
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:27:2-32
+	android:versionName
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:28:5-34
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:29:5-30
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:26:11-69
+	android:installLocation
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:30:5-35
+uses-sdk
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:36:2-68
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:36:38-66
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:36:12-37
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+		INJECTED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml
+supports-screens
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:37:2-41:40
+	android:largeScreens
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:40:11-38
+	android:smallScreens
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:39:11-38
+	android:normalScreens
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:38:11-39
+	android:anyDensity
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:41:11-37
+uses-feature#android.hardware.bluetooth
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:42:2-84
+	android:required
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:42:58-82
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:42:16-57
+uses-feature#android.hardware.location
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:43:2-83
+	android:required
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:43:57-81
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:43:16-56
+uses-feature#android.hardware.location.gps
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:44:2-87
+	android:required
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:44:61-85
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:44:16-60
+uses-feature#android.hardware.telephony
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:45:2-84
+	android:required
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:45:58-82
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:45:16-57
+uses-feature#android.hardware.touchscreen
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:46:2-86
+	android:required
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:46:60-84
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:46:16-59
+uses-feature#android.hardware.wifi
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:47:2-79
+	android:required
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:47:53-77
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:47:16-52
+uses-feature#android.hardware.camera
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:48:2-81
+	android:required
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:48:55-79
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:48:16-54
+uses-permission#android.permission.INTERNET
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:50:2-80
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:50:19-61
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:51:2-93
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:51:19-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:52:2-84
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:52:19-65
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:53:2-94
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:53:19-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:54:2-86
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:54:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:55:2-88
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:55:19-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:56:2-89
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:56:19-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:57:2-94
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:57:19-75
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:58:2-85
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:58:19-66
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:59:2-86
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:59:19-67
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:60:2-82
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:60:19-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:61:2-81
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:61:19-62
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:62:2-88
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:62:19-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:63:2-78
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:63:19-59
+uses-permission#android.permission.VIBRATE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:64:2-80
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:64:19-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:69:2-93
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:69:19-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:70:2-90
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:70:19-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:72:2-82
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:72:19-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:73:2-85
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:73:19-65
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:74:2-67
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:74:19-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:75:2-64
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:75:19-61
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:76:2-83
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:76:19-80
+application
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:78:2-282:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:78:47-79
+	android:debuggable
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:78:80-106
+	android:icon
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:78:15-46
+activity#org.sipdroid.sipua.ui.Sipdroid
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:79:6-88:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:81:13-45
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:81:46-81
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:83:10-60
+	android:theme
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:82:13-57
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:80:13-58
+activity#org.lumicall.android.sip.RegisterAccount
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:89:9-97:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:91:13-45
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:91:46-81
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:92:10-60
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:90:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:93:13-96:29
+action#android.intent.action.MAIN
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:94:17-69
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:94:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:95:17-77
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:95:27-74
+activity#org.lumicall.android.sip.ManualVerification
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:98:9-102:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:100:13-45
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:100:46-81
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:101:10-60
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:99:13-71
+activity#org.lumicall.android.sip.ActivateAccount
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:103:9-110:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:105:13-45
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:105:46-81
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:106:10-60
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:104:13-68
+intent-filter#org.lumicall.android.extra.VALIDATION_ATTEMPTED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:107:13-109:29
+	android:priority
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:107:28-50
+action#org.lumicall.android.extra.VALIDATION_ATTEMPTED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:108:17-90
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:108:25-87
+activity#org.lumicall.android.sip.RegisterOtherAccount
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:111:9-115:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:113:13-45
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:113:46-81
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:114:17-67
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:112:13-73
+activity#org.sipdroid.sipua.ui.PSTN
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:116:9-125:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:116:61-94
+	android:icon
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:117:10-52
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:116:19-60
+intent-filter#android.intent.action.SENDTO+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:118:13-124:29
+action#android.intent.action.SENDTO
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:119:17-71
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:119:25-68
+category#android.intent.category.DEFAULT
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:120:17-76
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:120:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:121:17-78
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:121:27-75
+data
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:122:17-46
+	android:scheme
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:122:23-43
+activity#org.sipdroid.sipua.ui.SIP
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:126:9-135:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:126:60-92
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:126:19-59
+activity#org.sipdroid.sipua.ui.AutoAnswer
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:136:9-101
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:136:67-99
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:136:19-66
+activity#org.sipdroid.sipua.ui.ChangeAccount
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:137:9-104
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:137:70-102
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:137:19-69
+activity#org.sipdroid.sipua.ui.SIPUri
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:138:9-181:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:138:63-95
+	android:theme
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:139:11-54
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:138:19-62
+intent-filter#android.intent.action.CALL+android.intent.category.DEFAULT
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:140:13-145:29
+action#android.intent.action.CALL
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:141:17-69
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:141:25-66
+intent-filter#android.intent.action.SENDTO+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:146:13-153:29
+action#android.intent.action.VIEW
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:148:17-69
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:148:25-66
+intent-filter#android.intent.action.CALL_PRIVILEGED+android.intent.category.DEFAULT
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:154:13-180:29
+action#android.intent.action.CALL_PRIVILEGED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:155:17-80
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:155:25-77
+activity#org.sipdroid.sipua.ui.Activity2
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:182:9-183:69
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:182:66-98
+	android:excludeFromRecents
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:183:10-43
+	android:taskAffinity
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:183:44-67
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:182:19-65
+activity#org.sipdroid.sipua.ui.Settings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:184:9-187:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:184:65-97
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:185:10-60
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:184:19-64
+activity#org.lumicall.android.preferences.SIPIdentitiesSettings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:188:9-189:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:188:69-101
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:188:19-68
+activity#org.lumicall.android.preferences.SIPIdentitySettings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:190:9-191:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:190:67-99
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:190:19-66
+activity#org.lumicall.android.preferences.ENUMSuffixesSettings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:192:9-193:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:192:68-100
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:192:19-67
+activity#org.lumicall.android.preferences.ENUMSuffixSettings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:194:9-195:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:194:66-98
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:194:19-65
+activity#org.lumicall.android.preferences.PTTChannelsSettings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:196:9-197:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:196:67-99
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:196:19-66
+activity#org.lumicall.android.preferences.PTTChannelSettings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:198:9-199:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:198:66-98
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:198:19-65
+activity#org.lumicall.android.preferences.SilentMode
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:200:9-201:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:200:58-90
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:200:19-57
+activity#org.sipdroid.codecs.Codecs$CodecSettings
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:202:9-205:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:204:5-37
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:203:5-60
+activity#org.sipdroid.sipua.ui.VideoCamera
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:206:9-212:20
+	android:clearTaskOnLaunch
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:210:10-42
+	android:screenOrientation
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:209:10-47
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:206:68-102
+	android:excludeFromRecents
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:207:10-43
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:211:10-60
+	android:theme
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:208:4-68
+	android:taskAffinity
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:207:44-67
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:206:19-67
+activity#org.sipdroid.sipua.ui.InCallScreen
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:213:9-216:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:213:69-101
+	android:excludeFromRecents
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:214:10-43
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:215:10-45
+	android:taskAffinity
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:214:44-67
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:213:19-68
+activity#org.lumicall.android.sip.MessageIndex
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:217:9-222:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:219:13-45
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:219:46-81
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:221:10-60
+	android:theme
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:220:13-57
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:218:13-65
+activity#org.lumicall.android.sip.NewMessage
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:223:9-227:20
+	android:label
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:225:13-45
+	android:launchMode
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:225:46-81
+	android:configChanges
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:226:10-60
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:224:13-63
+receiver#org.sipdroid.sipua.ui.OneShotAlarm
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:228:9-70
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:228:19-68
+receiver#org.sipdroid.sipua.ui.OneShotAlarm2
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:229:6-68
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:229:16-66
+receiver#org.sipdroid.sipua.ui.LoopAlarm
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:230:6-64
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:230:16-62
+receiver#org.sipdroid.sipua.ui.OwnWifi
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:231:6-62
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:231:16-60
+receiver#org.sipdroid.sipua.ui.OneShotLocation
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:232:6-70
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:232:16-68
+receiver#org.sipdroid.sipua.ui.LoopLocation
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:233:6-67
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:233:16-65
+receiver#org.sipdroid.sipua.ui.Caller
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:234:6-238:17
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:234:16-59
+intent-filter#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:235:10-237:26
+	android:priority
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:235:25-48
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:236:11-76
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:236:19-73
+receiver#org.lumicall.android.reg.SMSProgressReceiver
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:239:6-244:17
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:239:16-75
+intent-filter#org.lumicall.SMS_DELIVERED+org.lumicall.SMS_SENT
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:240:10-243:26
+action#org.lumicall.SMS_SENT
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:241:11-58
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:241:19-55
+action#org.lumicall.SMS_DELIVERED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:242:11-63
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:242:19-60
+receiver#org.sipdroid.sipua.ui.Receiver
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:245:9-256:17
+	android:enabled
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:245:65-87
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:245:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE+android.intent.action.EXTERNAL_APPLICATIONS_UNAVAILABLE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:246:9-250:25
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:247:11-73
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:247:19-70
+action#android.intent.action.EXTERNAL_APPLICATIONS_AVAILABLE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:248:11-90
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:248:19-87
+action#android.intent.action.EXTERNAL_APPLICATIONS_UNAVAILABLE
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:249:11-92
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:249:19-89
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:251:9-255:25
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:252:11-75
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:252:19-72
+receiver#org.lumicall.android.sms.SMSReceiver
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:257:6-261:24
+	android:enabled
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:257:68-90
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:257:16-67
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:258:17-260:33
+	android:priority
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:258:32-54
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:259:21-86
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:259:29-83
+receiver#org.lumicall.android.ganglia.AndroidGScheduler
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:267:9-271:20
+	android:enabled
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:267:81-103
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:267:19-80
+receiver#org.lumicall.android.AndroidTimer
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:272:9-273:20
+	android:enabled
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:272:68-90
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:272:19-67
+service#org.sipdroid.sipua.ui.RegisterService
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:274:6-70
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:274:15-67
+service#org.lumicall.android.reg.EnrolmentService
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:275:6-279:16
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:275:15-71
+service#org.lumicall.android.ganglia.GMonitorService
+ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:280:6-281:16
+	android:enabled
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:280:75-97
+	android:name
+		ADDED from /home/urvikagola/UrvikaGola/outreachy/LumicallSilentMode/AndroidManifest.xml:280:15-74
